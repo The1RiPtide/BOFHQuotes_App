@@ -3,7 +3,7 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@mipmap/Appicon"
+        android:icon="@mipmap/appicon"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
         <activity
